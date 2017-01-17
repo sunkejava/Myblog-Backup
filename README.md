@@ -1,3 +1,3 @@
 Myblog-Backup
 
-Blog: http://www.sunkejava.com
+Blog: <a href="http://www.sunkejava.com" target="_blank">http://www.sunkejava.com</a>
